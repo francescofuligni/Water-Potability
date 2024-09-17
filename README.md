@@ -13,7 +13,7 @@ Descrizione:
 
 Per la realizzazione del progetto è stata consultata la documentazione "WHO Guidelines for drinking-water quality.pdf", contenente le linee guida della WHO sulla qualità dell'acqua potabile.
 
-Il progetto è stato realizzato da Francesco Maria Fuligni nell'ambito del corso di Statistica Numerica, parte del corso di laurea in Informatica per il Management presso l'Università di Bologna, nell'anno 2024.
+Il progetto è stato realizzato da Francesco Maria Fuligni nell'ambito del corso di Statistica Numerica, parte del Corso di Laurea in Informatica per il Management presso l'Università di Bologna, nell'anno 2024.
 
 Link al dataset “water_potability.csv” su Kaggle: https://www.kaggle.com/datasets/nayanack/water-probability
 
