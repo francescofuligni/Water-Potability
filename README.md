@@ -16,4 +16,5 @@ Per la realizzazione del progetto è stata consultata la documentazione "WHO Gui
 Il progetto è stato realizzato da Francesco Maria Fuligni nell'ambito del corso di Statistica Numerica, parte del corso di laurea in Informatica per il Management presso l'Università di Bologna, nell'anno 2024.
 
 Link al dataset “water_potability.csv” su Kaggle: https://www.kaggle.com/datasets/nayanack/water-probability
+
 Link al documento della WHO: https://www.who.int/publications/i/item/9789240045064
