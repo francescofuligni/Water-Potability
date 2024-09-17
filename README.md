@@ -1,7 +1,7 @@
 # Water-Potability
 
 In questo progetto si analizza il dataset “water_potability.csv”, scaricato dalla piattaforma Kaggle e contenente informazioni riguardanti l'analisi di campioni di acqua.
-Il progetto si pone l'obiettivo di costruire un algoritmo di machine learning sui dati in questione per predire la potabilità di un campione d'acqua in base ai parametri misurati su di esso. Maggiori informazioni relative allo svolgimento del progetto e alle conclusioni tratte dai risultati ottenuti nel file "Relazione-Water-Potability.pdf".
+Il progetto si pone l'obiettivo di costruire un algoritmo di Machine Learning per predire la potabilità di un campione d'acqua in base ai parametri misurati su di esso. Maggiori informazioni relative allo svolgimento del progetto e alle conclusioni tratte nel file "Relazione-Water-Potability.pdf".
 
 Descrizione:
 - metriche-SVM.csv: file CSV che contiene metriche relative ad un modello di Support Vector Machine (SVM).
