@@ -11,8 +11,9 @@ Descrizione:
 - water_potability.csv: dataset CSV relativo ai dati sulla potabilità dell'acqua.
 - Istruzioni-progetto.pdf: documento PDF contenente le richieste dei docenti del corso per la realizzazione del progetto.
 
-Per la realizzazione del progetto è stata consultata la documentazione "WHO Guidelines for drinking-water quality.pdf", contenente le linee guida dell'OMS sulla qualità dell'acqua potabile.
+Per la realizzazione del progetto è stata consultata la documentazione "WHO Guidelines for drinking-water quality.pdf", contenente le linee guida della WHO sulla qualità dell'acqua potabile.
 
 Il progetto è stato realizzato da Francesco Maria Fuligni nell'ambito del corso di Statistica Numerica, parte del corso di laurea in Informatica per il Management presso l'Università di Bologna, nell'anno 2024.
 
 Link al dataset “water_potability.csv” su Kaggle: https://www.kaggle.com/datasets/nayanack/water-probability
+Link al documento della WHO: https://www.who.int/publications/i/item/9789240045064
